@@ -1,0 +1,180 @@
+Tower says: Baloon#B1(0) registered to weather tower.
+Tower says: Baloon#B2(1) registered to weather tower.
+Tower says: JetPlane#J1(2) registered to weather tower.
+Tower says: Helicopter#H1(3) registered to weather tower.
+Tower says: Helicopter#H2(4) registered to weather tower.
+Tower says: Helicopter#H3(5) registered to weather tower.
+Tower says: Baloon#B3(6) registered to weather tower.
+Tower says: JetPlane#J2(7) registered to weather tower.
+Tower says: Helicopter#H4(8) registered to weather tower.
+New Simulation: 1
+Helicopter#B1(0): Fog can cover anything, anything except itself!
+Helicopter#B2(1): Let the rain sing you a lullaby
+Helicopter#J1(2): I've always found the rain very calming
+Helicopter#H1(3): Don't threaten me with love, baby. Let's just go walking in the rain
+Helicopter#H2(4): Don't threaten me with love, baby. Let's just go walking in the rain
+Helicopter#H3(5): Out of the fog of mental illness came enlightenment.
+Helicopter#B3(6): Every winter has its spring.
+Helicopter#J2(7): Winter forms our character and brings out our best.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 2
+Helicopter#B1(0): Every winter has its spring.
+Helicopter#B2(1): Every winter has its spring.
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#H3(5): Nothing burns like the cold.
+Helicopter#B3(6): Let the rain sing you a lullaby
+Helicopter#J2(7): I've always found the rain very calming
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 3
+Tower says: Baloon#B1(0) unregistered to weather tower. My Longitude and Latitude are 2 and 3, respectively.
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#H3(5): Nothing burns like the cold.
+Tower says: Baloon#B3(6) unregistered to weather tower. My Longitude and Latitude are 102 and 22, respectively.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 4
+Helicopter#B2(1): Let the rain sing you a lullaby
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#H3(5): Nothing burns like the cold.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 5
+Helicopter#B2(1): Every winter has its spring.
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#H3(5): Nothing burns like the cold.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 6
+Helicopter#B2(1): Let the rain sing you a lullaby
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#H3(5): Nothing burns like the cold.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 7
+Helicopter#B2(1): Every winter has its spring.
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#H3(5): Nothing burns like the cold.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 8
+Helicopter#B2(1): Let the rain sing you a lullaby
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#H3(5): Nothing burns like the cold.
+Helicopter#J2(7): I've always found the rain very calming
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 9
+Tower says: Baloon#B2(1) unregistered to weather tower. My Longitude and Latitude are 1 and 8, respectively.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#H3(5): Nothing burns like the cold.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 10
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Tower says: Helicopter#H3(5) unregistered to weather tower. My Longitude and Latitude are 99 and 68, respectively.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 11
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): Winter forms our character and brings out our best.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 12
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): I've always found the rain very calming
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 13
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 14
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 15
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 16
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 17
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): I've always found the rain very calming
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 18
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 19
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): Winter forms our character and brings out our best.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 20
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): I've always found the rain very calming
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 21
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 22
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 23
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 24
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): If you're not barefoot, then you're overdressed.
+Helicopter#H4(8): But tomorrow may rain, so I will follow the sun.
+New Simulation: 25
+Helicopter#J1(2): If you're not barefoot, then you're overdressed.
+Helicopter#H1(3): But tomorrow may rain, so I will follow the sun.
+Helicopter#H2(4): But tomorrow may rain, so I will follow the sun.
+Helicopter#J2(7): I've always found the rain very calming
+Helicopter#H4(8): Nothing burns like the cold.
